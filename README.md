@@ -1,7 +1,7 @@
 bumpie
 ======
 
-Bump asset versions on package.json increment
+Bump asset versions on package.json version increments
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/bumpie.svg)](https://npmjs.org/package/bumpie)
@@ -31,3 +31,7 @@ USAGE
 <!-- commands -->
 
 <!-- commandsstop -->
+
+# License
+
+MIT
