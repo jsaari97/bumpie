@@ -1,3 +1,3 @@
 export const run = async () => {
-  // Hello World!
+  console.log("Hello World!");
 };
